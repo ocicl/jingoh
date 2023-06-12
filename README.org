@@ -1,0 +1,10 @@
+* jingoh
+
+DSL to notate specification, rather than test framework.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/hyotang666/jingoh.git   |
+| commit  | f392b26  |
+| systems | jingoh |
+|---------+-------------------------------------------|
+
